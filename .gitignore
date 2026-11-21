@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.zip
+dist/
+*.sqlite
+*.sqlite-*
+.auth_secret
+*.csv
+push-github.bat
+push-log.txt
